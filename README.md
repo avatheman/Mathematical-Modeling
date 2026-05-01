@@ -170,7 +170,7 @@ Special thanks to the faculty and mentors who guided this work.
 
 ## 👤 Author
 
-**[Your Name]**
+**Abhishek P G**
 Mathematical Modeling Intern
 Sacred Heart College, Chalakkudy
 
