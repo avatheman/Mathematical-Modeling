@@ -37,7 +37,7 @@ That's where **numerical simulation** comes in.
   - **R²** — Coefficient of Determination
   - **MAPE** — Mean Absolute Percentage Error
   - **AIC** — Akaike Information Criterion
-- 🔄 Cross-verified with **MATLAB** implementation for consistency
+
 
 ---
 
@@ -49,7 +49,7 @@ That's where **numerical simulation** comes in.
 | NumPy | Numerical arrays and matrix operations |
 | SciPy | Scientific computations and ODE utilities |
 | Matplotlib | Plotting and visualization |
-| MATLAB | Independent cross-validation and comparison |
+
 
 ---
 
@@ -66,15 +66,15 @@ heat-flow-simulation/
 │   ├── validation.py         # RMSE, R², MAPE, AIC calculations
 │   └── plots.py              # All visualization functions
 │
-├── matlab/
-│   └── heat_simulation.m     # MATLAB equivalent for cross-validation
+|
+│   
 │
 ├── results/
 │   ├── temp_vs_time.png
 │   ├── temp_vs_position.png
 │   └── validation_table.csv
 │
-├── report/                   # Internship report (if applicable)
+├── report/                   # Internship report
 │
 ├── requirements.txt
 └── README.md
@@ -100,8 +100,8 @@ pip install -r requirements.txt
 **requirements.txt**
 ```
 numpy
-scipy
 matplotlib
+pandas
 ```
 
 ### 3. Run the simulation
