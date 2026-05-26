@@ -9,7 +9,7 @@
 
 This project models the **transient heat equation** in a one-dimensional conductor, with the added complexity of **temperature-dependent thermal conductivity** — meaning the material doesn't conduct heat the same way at all temperatures, which is closer to real-world behavior.
 
-The simulation is implemented in **Python** and cross-validated against **MATLAB**, with results compared to analytical solutions and statistically evaluated using industry-standard error metrics.
+The simulation is implemented in **Python**, with results compared to analytical solutions and statistically evaluated using industry-standard error metrics.
 
 This work was developed as part of a **Mathematical Modeling Internship** at **Sacred Heart College, Chalakkudy**.
 
