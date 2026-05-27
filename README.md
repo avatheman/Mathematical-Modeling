@@ -113,8 +113,6 @@ python python/main.py
 
 ## 📊 Results
 
-### Temperature vs. Time
-Shows how the temperature at specific points on the rod evolves over time.
 
 ### Temperature vs. Position
 Shows the temperature profile across the entire rod at specific moments in time.
@@ -174,6 +172,13 @@ Special thanks to the faculty and mentors who guided this work.
 Mathematical Modeling Intern
 Sacred Heart College, Chalakkudy
 
+---
+
+## 👩‍🏫 Guide
+
+** Dr Vijitha Mukundan **
+PG Department of Mathematics 
+Sacred Heart College, Chalakkudy
 ---
 
 ## 📄 License
