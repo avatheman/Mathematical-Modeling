@@ -176,7 +176,7 @@ Sacred Heart College, Chalakkudy
 
 ## 👩‍🏫 Guide
 
-** Dr Vijitha Mukundan **
+** Dr Vijitha Mukundan**
 PG Department of Mathematics 
 Sacred Heart College, Chalakkudy
 ---
