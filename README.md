@@ -1,7 +1,6 @@
 # 🌡️ Numerical Simulation of Transient Heat Flow in a One-Dimensional Conductor
-### with Temperature-Dependent Conductivity
 
-> A computational study using the **Finite Difference Method (FDM)** to simulate how heat travels through a 1D rod over time — where the material's ability to conduct heat changes with temperature.
+> A computational study using the **Finite Difference Method (FDM)** to simulate how heat travels through a 1D rod over time 
 
 ---
 
@@ -147,7 +146,6 @@ Where:
 - `T` — Temperature (K or °C)
 - `t` — Time (s)
 - `x` — Position along the rod (m)
-- `k(T)` — Thermal conductivity (temperature-dependent) (W/m·K)
 - `ρ` — Density (kg/m³)
 - `Cp` — Specific heat capacity (J/kg·K)
 
@@ -176,10 +174,10 @@ Sacred Heart College, Chalakkudy
 
 ## 👩‍🏫 Guide
 
-**Dr.Vijitha Mukundan**
-
-PG Department of Mathematics 
+**Dr. Vijitha Mukundan**
+PG Dept. Mathematics
 Sacred Heart College, Chalakkudy
+
 ---
 
 ## 📄 License
